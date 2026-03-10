@@ -21,7 +21,6 @@
     border: none;
     padding: 0;
     margin-bottom: 15px; 
-    border: 2px dashed black;
 }
 
 .result-block {
@@ -43,8 +42,6 @@
 .calc-button {
     display: inline-block;
     width: auto;
-    flex: 0 0 auto;
-    
     background-color: rgb(186, 255, 194);
     border: 2px dashed red;
     border-radius: 15px;
@@ -53,8 +50,3 @@
     padding: 10px 30px; 
     font-size: 18px; 
 }
-
-.result-output {
-
-}
-
